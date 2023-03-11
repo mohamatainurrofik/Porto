@@ -23,6 +23,8 @@ import twitter from "./twitter.svg";
 import myLogo from "./MyLogo.png";
 import myPhoto from "./ainur.png";
 import project1 from "./project1.png";
+import project2 from "./project2.png";
+import project3 from "./project3.png";
 
 export {
   logo,
@@ -44,4 +46,6 @@ export {
   myLogo,
   myPhoto,
   project1,
+  project2,
+  project3,
 };

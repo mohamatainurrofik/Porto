@@ -1,5 +1,5 @@
 import {  facebook, instagram, linkedin, twitter, send, shield, star  } from "../assets";
-import { myPhoto, project1 } from "../assets"; 
+import { myPhoto, project1, project2, project3 } from "../assets"; 
 export const content ={
   hero : {
     content : "Never too late to learn something new, keep learning from failure. because success only comes to those who never stop trying.",
@@ -13,9 +13,9 @@ export const content ={
     {
       id : "project1",
       title : "Inventory Manajement System",
-      picture : project1,
-      link : "",
-      description : ""
+      picture : project3,
+      link : "https://simatory.infinityfreeapp.com/",
+      description : "Build with Codeigniter 4"
     },
     {
       id : "project2",
@@ -34,9 +34,9 @@ export const content ={
     {
       id : "project4",
       title : "Organization Company Profile",
-      picture : project1,
-      link : "",
-      description : ""
+      picture : project2,
+      link : "http://compro.infinityfreeapp.com/",
+      description : "Build with Codeigniter 3"
     },
     {
       id : "project5",
