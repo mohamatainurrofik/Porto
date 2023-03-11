@@ -1,5 +1,5 @@
 import {  facebook, instagram, linkedin, twitter, send, shield, star  } from "../assets";
-import { myPhoto, project1, project2, project3 } from "../assets"; 
+import { myPhoto, project1, project2, project3, project4, project5 } from "../assets"; 
 export const content ={
   hero : {
     content : "Never too late to learn something new, keep learning from failure. because success only comes to those who never stop trying.",
@@ -22,14 +22,14 @@ export const content ={
       title : "Sub-District Company Profile",
       picture : project1,
       link : "",
-      description : ""
+      description : "Build with Codeigniter 3"
     },
     {
       id : "project3",
       title : "Academic Information System",
-      picture : project1,
+      picture : project4,
       link : "",
-      description : ""
+      description : "Build with Laravel 7"
     },
     {
       id : "project4",
@@ -41,9 +41,9 @@ export const content ={
     {
       id : "project5",
       title : "Pharmacy Stock Manajemen System",
-      picture : project1,
+      picture : project5,
       link : "",
-      description : ""
+      description : "Build with Codeigniter 4"
     },
   ]
 };
