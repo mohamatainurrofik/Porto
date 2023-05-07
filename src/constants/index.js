@@ -28,7 +28,7 @@ export const content ={
       id : "project3",
       title : "Academic Information System",
       picture : project4,
-      link : "",
+      link : "http://sim.infinityfreeapp.com/public/",
       description : "Build with Laravel 7"
     },
     {
