@@ -21,14 +21,14 @@ export const content ={
       id : "project2",
       title : "Sub-District Company Profile",
       picture : project1,
-      link : "",
+      link : "https://github.com/mohamatainurrofik/",
       description : "Build with Codeigniter 3"
     },
     {
       id : "project3",
       title : "Academic Information System",
       picture : project4,
-      link : "",
+      link : "http://sim.infinityfreeapp.com/",
       description : "Build with Laravel 7"
     },
     {
@@ -42,7 +42,7 @@ export const content ={
       id : "project5",
       title : "Pharmacy Stock Manajemen System",
       picture : project5,
-      link : "",
+      link : "http://apotek.infinityfreeapp.com/",
       description : "Build with Codeigniter 4"
     },
   ]
