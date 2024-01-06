@@ -1,51 +1,68 @@
-import {  facebook, instagram, linkedin, twitter, send, shield, star  } from "../assets";
-import { myPhoto, project1, project2, project3, project4, project5 } from "../assets"; 
-export const content ={
-  hero : {
-    content : "Never too late to learn something new, keep learning from failure. because success only comes to those who never stop trying.",
-    link : "https://drive.google.com/file/d/18OD9IP3ya2KG6Mjl4BuCvOwJVIkMXEg0/view?usp=drivesdk/",
+import {
+  facebook,
+  instagram,
+  linkedin,
+  twitter,
+  send,
+  shield,
+  star,
+} from "../assets";
+import {
+  myPhoto,
+  project1,
+  project2,
+  project3,
+  project4,
+  project5,
+} from "../assets";
+export const content = {
+  hero: {
+    content:
+      "Never too late to learn something new, keep learning from failure. because success only comes to those who never stop trying.",
+    link: "https://drive.google.com/file/d/17YUAU-lya4uLFxa8d0Je2h6QVaCzQP66/view?usp=sharing",
   },
-  bio : {
-    content : "Well, Now i'm a fresh graduate and be a junior web programmer from indonesia and still growing to be a professional programmer. and now i'am focus in backend programmer.",
-    picture : myPhoto,
+  bio: {
+    content:
+      "Well, Now i'm a fresh graduate and be a junior web programmer from indonesia and still growing to be a professional programmer. and now i'am focus in backend programmer.",
+    picture: myPhoto,
   },
-  project : [
+  project: [
     {
-      id : "project1",
-      title : "Inventory Manajement System",
-      picture : project3,
-      link : "https://simatory.infinityfreeapp.com/",
-      description : "Build with Codeigniter 4"
+      id: "project1",
+      title: "Inventory Manajement System",
+      picture: project3,
+      link: "https://simatory.infinityfreeapp.com/",
+      description: "Build with Codeigniter 4",
     },
     {
-      id : "project2",
-      title : "Sub-District Company Profile",
-      picture : project1,
-      link : "https://github.com/mohamatainurrofik/",
-      description : "Build with Codeigniter 3"
+      id: "project2",
+      title: "Sub-District Company Profile",
+      picture: project1,
+      link: "https://github.com/mohamatainurrofik/",
+      description: "Build with Codeigniter 3",
     },
     {
-      id : "project3",
-      title : "Academic Information System",
-      picture : project4,
-      link : "http://sim.infinityfreeapp.com/",
-      description : "Build with Laravel 7"
+      id: "project3",
+      title: "Academic Information System",
+      picture: project4,
+      link: "http://sim.infinityfreeapp.com/",
+      description: "Build with Laravel 7",
     },
     {
-      id : "project4",
-      title : "Organization Company Profile",
-      picture : project2,
-      link : "http://compro.infinityfreeapp.com/",
-      description : "Build with Codeigniter 3"
+      id: "project4",
+      title: "Organization Company Profile",
+      picture: project2,
+      link: "http://compro.infinityfreeapp.com/",
+      description: "Build with Codeigniter 3",
     },
     {
-      id : "project5",
-      title : "Pharmacy Stock Manajemen System",
-      picture : project5,
-      link : "http://apotek.infinityfreeapp.com/",
-      description : "Build with Codeigniter 4"
+      id: "project5",
+      title: "Pharmacy Stock Manajemen System",
+      picture: project5,
+      link: "http://apotek.infinityfreeapp.com/",
+      description: "Build with Codeigniter 4",
     },
-  ]
+  ],
 };
 
 export const navLinks = [
